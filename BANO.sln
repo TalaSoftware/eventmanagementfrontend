@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BANO", "BANO\BANO.csproj", "{8EB136F0-905B-4A71-90E9-B0E0CDA1D69A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TESTBANO", "TESTBANO\TESTBANO.csproj", "{8E8EC9D9-C288-47C6-9556-BA86701F59D7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8EB136F0-905B-4A71-90E9-B0E0CDA1D69A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8EB136F0-905B-4A71-90E9-B0E0CDA1D69A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8EB136F0-905B-4A71-90E9-B0E0CDA1D69A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8EB136F0-905B-4A71-90E9-B0E0CDA1D69A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E8EC9D9-C288-47C6-9556-BA86701F59D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E8EC9D9-C288-47C6-9556-BA86701F59D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E8EC9D9-C288-47C6-9556-BA86701F59D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E8EC9D9-C288-47C6-9556-BA86701F59D7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
