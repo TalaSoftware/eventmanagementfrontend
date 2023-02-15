@@ -4,11 +4,11 @@ import net.runelite.client.config.Config;
 import net.runelite.client.config.ConfigGroup;
 import net.runelite.client.config.ConfigItem;
 
-@ConfigGroup("bano")
+@ConfigGroup("event")
 public interface IEventConfig extends Config {
     @ConfigItem(
             position = 1,
-            keyName = "eventUrl",
+            keyName = "banoUrlInput",
             name = "url",
             description = "a"
     )
@@ -18,7 +18,7 @@ public interface IEventConfig extends Config {
 
     @ConfigItem(
             position = 2,
-            keyName = "eventCode",
+            keyName = "banoEventCode",
             name = "eventCode",
             description = "b"
     )
@@ -27,7 +27,7 @@ public interface IEventConfig extends Config {
     }
     @ConfigItem(
             position = 3,
-            keyName = "npcList",
+            keyName = "banoNpcList",
             name = "boss",
             description = "c"
     )
