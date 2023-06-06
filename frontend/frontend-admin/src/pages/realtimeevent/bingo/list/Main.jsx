@@ -8,7 +8,6 @@ const event = [
     { eventCode: 'BAN2026', title: 'Bosstober organized by gastje888', StartDate: '14-2-2023', EndDate: '30-3-2023' },
     { eventCode: 'BAN2027', title: 'Barrows event organized by N7N',   StartDate: '14-2-2023', EndDate: '30-3-2023' },
     { eventCode: 'BAN2028', title: 'Mole Mass organized by Lady',      StartDate: '14-2-2023', EndDate: '30-3-2023' },
-
 ]
 
 function Main() {

@@ -1,3 +1,3 @@
 export class BaseService {
-    _baseUrl = "https://localhost:7248";
+    _baseUrl = "https://eventmanagementcomponent.azurewebsites.net";
 }
