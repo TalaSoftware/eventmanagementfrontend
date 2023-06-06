@@ -11,7 +11,7 @@ export class BingoCardService extends BaseService{
     }
 
     async GetCards(){
-        const cards =await get(this._baseUrl+"/event/1/bingocards").then((data)=>{
+        const cards =await get(this._baseUrl+"/event/3/bingocards").then((data)=>{
             console.log(data)
             console.log("request")
             return data;
